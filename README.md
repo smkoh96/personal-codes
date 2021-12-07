@@ -1,2 +1,2 @@
 # personal-codes
-My own personal project can be found here :)
+My own personal projects can be found here :)
